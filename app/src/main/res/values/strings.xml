@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Wagba</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="emailEnter">Enter your Email here</string>
+    <string name="passwordEnter">Enter your Password here</string>
+    <string name="nameEnter">Enter your Name here</string>
+    <string name="phoneEnter">Enter your Phone here</string>
+    <string name="register">Register</string>
+    <string name="newHere">New Here? Register Now</string>
+    <string name="signin">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hello_restaurants_fragment"></string>
+    <string name="hello_cart_fragment">Hello cart fragment</string>
+    <string name="hello_history_fragment">Hello history fragment</string>
+    <string name="hello_account_fragment">Hello account fragment</string>
+    <string name="statusOpen">Open</string>
+    <string name="statusClosed">Closed</string>
+    <string name="haveAccText">Already Have an Account?</string>
+    <string-array name="restaurants">
+        <item>Heart Attack</item>
+        <item>Nagaf</item>
+        <item>Shabrawy</item>
+        <item>McDonalds</item>
+        <item>3m Saddam</item>
+        <item>Koshari Hend</item>
+        <item>Tayyebat El Sham</item>
+        <item>Qasr El Mandy</item>
+        <item>Cilantro</item>
+    </string-array>
+    <string-array name="shabrawyDishes">
+        <item>Foul Sandwich</item>
+        <item>Falafel Sandwich</item>
+        <item>Eggs Sandwich</item>
+        <item>Fries Sandwich</item>
+    </string-array>
+    <string-array name="shabrawyDishesDesc">
+        <item>In Stock</item>
+        <item>In Stock</item>
+        <item>Out of Stock</item>
+        <item>In Stock</item>
+    </string-array>
+    <string-array name="shabrawyDishesPrice">
+        <item>5 EGP</item>
+        <item>5 EGP</item>
+        <item>5 EGP</item>
+        <item>6 EGP</item>
+    </string-array>
+    <string-array name="cartDishes">
+        <item>Foul Sandwich</item>
+        <item>Falafel Sandwich</item>
+    </string-array>
+    <string-array name="cartDishesQty">
+        <item>2 pcs</item>
+        <item>3 pcs</item>
+    </string-array>
+    <string-array name="cartDishesPrice">
+        <item>5 EGP</item>
+        <item>5 EGP</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

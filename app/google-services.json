@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250999258861",
+    "project_id": "wagba-b2b14",
+    "storage_bucket": "wagba-b2b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250999258861:android:d77f91c2980c9b0a5816e4",
+        "android_client_info": {
+          "package_name": "com.example.wagba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250999258861-8nj7q58vfqsd5d4te65301a3a45dsumh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPg63fMC-tZ82PDvDn1GtpohOoIn0CZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250999258861-8nj7q58vfqsd5d4te65301a3a45dsumh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
